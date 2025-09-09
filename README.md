@@ -4,12 +4,6 @@ A straightforward and engaging mini-game where a player competes against the com
 
 ---
 
-##  Demo (Optional)
-
-You can optionally insert a GIF or screenshot here to showcase the gameplay in action.
-
----
-
 ##  Features
 
 - Classic gameplay: **Rock beats Scissors**, **Scissors beat Paper**, **Paper beats Rock**.
@@ -43,3 +37,4 @@ git clone https://github.com/CoderRahhul/Rock-Paper-Scissors-mini-game.git
 
 # Navigate into the project directory
 cd Rock-Paper-Scissors-mini-game
+
