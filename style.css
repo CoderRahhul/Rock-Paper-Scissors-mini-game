@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Epunda+Slab:ital,wght@0,300..900;1,300..900&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: Epunda Slab;
+  background-color: #081b31;
+  color: #fff;
+}
+
+h1 {
+  background-color: #081b31;
+  color: #fff;
+  height: 5rem;
+  line-height: 5rem;
+  border: 2px solid #fff;
+}
+
+.choices {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+}
+
+.choice {
+  height: 165px;
+  width: 165px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.choice:hover {
+  background-color: #fff;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.score-board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.score {
+  padding: 2rem;
+  font-size: x-large;
+}
+
+.msg-container {
+  font-size: x-large;
+}
+#msg {
+  background-color: #fff;
+  color: #000;
+  display: inline;
+  border-radius: 0.5rem;
+  font-size: 2rem;
+}
+
+#user-score,
+#comp-score {
+  font-size: 5rem;
+}
+
